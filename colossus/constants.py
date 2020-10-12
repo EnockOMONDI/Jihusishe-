@@ -30,11 +30,12 @@ SB_ADMIN_CLIENT_JS_LIBRARY_URLS = [
                             "assets2/js/page/forms-advanced-forms.js",
                             "assets2/bundles/echart/echarts.js",  
                             "assets2/bundles/chartjs/chart.min.js",
+                            "assets2/js/page/chart-chartjs.js",
                             "assets2/bundles/apexcharts/apexcharts.min.js",
                             "assets2/js/page/index.js",
                             "assets2/js/scripts.js",
                             "assets2/bundles/jquery.sparkline.min.js"
-
+ 
 
 ]
 SB_ADMIN_2_CSS_LIBRARY_URLS =[                    

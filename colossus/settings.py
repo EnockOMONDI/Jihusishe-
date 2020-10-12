@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'django.contrib.humanize',
 
-    'debug_toolbar',
+  
     'crispy_forms',
     'colossus.apps.clientapp',
     'colossus.apps.accounts',
@@ -70,7 +70,7 @@ INTERNAL_IPS = [
 # ==============================================================================
 
 MIDDLEWARE = [
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
+   
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
